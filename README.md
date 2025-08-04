@@ -1,5 +1,6 @@
 # Starfield Chronoface
 A Starfield inspired watchface Wear OS devices.
+Used some assets from [this repo](https://github.com/omrdemir/starfield_watchface) from omrdemir. 
 
 # Multiple Colour Ways
 
